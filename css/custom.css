@@ -1,0 +1,97 @@
+.reveal {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 38px;
+  font-weight: normal;
+  color: #fff; }
+
+::selection {
+  color: #fff;
+  background: #bee4fd;
+  text-shadow: none; }
+
+a, a:visited {
+    color:#1f8ace;
+}
+.reveal sub {
+    font-size:0.5em;
+}
+.reveal .no-border {
+    border:0;
+    box-shadow:none;
+}
+.red {
+    color:red;
+}
+#license {
+    font-size:0.4em;
+}
+.reveal .no-decoration {
+    border:0;
+    box-shadow:none;
+}
+.reveal .text-align-left {
+    text-align: left;
+}
+
+.reveal .apply-function-visual td {
+    padding: 1.2em 1.5em 1.2em 1.5em;
+}
+.reveal .apply-function-visual th {
+    text-align: center;
+    font-weight: normal;
+}
+
+.variable-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.variable-list li {
+    list-style: none;
+    padding-left: 1em;
+    text-indent: -1em;
+}
+/*
+.variable-list li:before {
+    content: "$";
+    padding-right: 5px;
+}*/
+.reveal .feedback-banner {
+    margin-top:2em;
+    padding:1em;
+    font-size:0.8em;
+    width:100%;
+    background-color:rgb(87, 48, 140);
+    color:#fff;
+}
+.reveal .feedback-banner a {
+    color:#fff;
+    text-decoration: underline;
+}
+.reveal .link-list {
+    font-size:0.9em;
+}
+.reveal .link-list li {
+    font-size:1em;
+    padding:0.2em 0;
+}
+.reveal .link-list a, .reveal .visible-link {
+    font-size:0.8em;
+}
+.reveal .link-list-small li {
+    font-size:0.9em;
+    padding:0.25em 0;
+    line-height:0.95em;
+}
+.reveal .link-list-small a {
+    font-size:0.7em;
+}
+.reveal .link-list-very-small li {
+    font-size:0.7em;
+    padding:0.15em 0;
+    line-height:0.9em;
+}
+.reveal .link-list-very-small a {
+    font-size:0.6em;
+}
